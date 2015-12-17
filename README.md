@@ -1,8 +1,6 @@
 # hello-world
 =============
 
-To whom it may concern,
-
-Karmamonster here, I like anything and everything. (Of, course!).
-I've tried many other peoples cooking and I find mine to be far more superior to theirs.
 First repository. hello-world. a short description.
+To whom it may concern, I like anything and everything (Of, course).
+I've compared my cooking to nother people's cooking and have found mine to be far mor superior to theirs.
